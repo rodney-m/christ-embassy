@@ -2,6 +2,8 @@
   "version": 2,
   "projects": {
     "admin-portal": "apps/admin-portal",
-    "admin-portal-e2e": "apps/admin-portal-e2e"
+    "admin-portal-e2e": "apps/admin-portal-e2e",
+    "website": "apps/website",
+    "website-e2e": "apps/website-e2e"
   }
 }
